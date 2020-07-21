@@ -1,0 +1,33 @@
+{
+    "Bens":[
+		{
+            
+			"AccountID": "8652145788955", 
+            "BeneficiaryId": "56897856", 
+            "Reference":"ref2",
+            "CreditorAccount":[
+                {
+				"SchemeName": "UK.OBIE.SortCodeAccountNUMBER",
+				"Identification":"931325665225", 
+                "Name":"Name1" 
+                }
+            ]
+
+            },
+            {
+                
+                "AccountID": "8652145788955", 
+                "BeneficiaryId": "56897856", 
+                "Reference":"ref2",
+                "CreditorAccount":[
+                    {
+                    "SchemeName": "UK.OBIE.SortCodeAccountNUMBER",
+                    "Identification":"931325665225", 
+                    "Name":"Name1" 
+                    }
+                ]
+                 
+                }
+		]
+		}
+

@@ -1,0 +1,17 @@
+table, td, th {
+    border: 1px solid black;
+    text-align: left;
+     
+  }
+  
+  table {
+    
+    width: 20%;
+  }
+  
+  td {
+    height: 20px;
+    padding: 50px;
+    vertical-align: bottom;
+ 
+  }
